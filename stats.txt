@@ -1,0 +1,9 @@
+Estatísticas dos Pacientes:
+Paciente 0 -> Número de Admissões: 2
+Paciente 1 -> Número de Admissões: 1
+Estatísticas dos Recepcionistas:
+Recepcionista 0 -> Número de Atendimentos: 0
+Recepcionista 1 -> Número de Atendimentos: 0
+Estatísticas dos Médicos:
+Médico 0 -> Número de Atendimentos: 0
+Médico 1 -> Número de Atendimentos: 0
